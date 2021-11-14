@@ -1,0 +1,1 @@
+const backgroundcolor = "#12558A";
